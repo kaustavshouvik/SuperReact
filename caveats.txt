@@ -1,0 +1,6 @@
+0. THE REACT APP MUST BE IN JS (The bug won't exist on TS).
+
+1. The file you run the command on has to be a react component.
+2. The name of the component should be the same as the file-name.
+3. You must destructe the props in the component params itself.
+4. Not call the function (prop) after return statement.
