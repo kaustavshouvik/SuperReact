@@ -7,6 +7,7 @@ const getPropTypesString = (entries, componentName) => {
     Number: 'number',
     String: 'string',
     Object: 'object',
+    Array: 'array',
     Function: 'func',
     Boolean: 'bool',
   };
